@@ -1,0 +1,31 @@
+,Seat comfort,,,Departure/Arrival time convenient,,,Food and drink,,,Gate location
+0,extremely poor,,0,extremely poor,,0,extremely poor,,0,very inconvinient
+1,poor,,1,poor,,1,poor,,1,Inconvinient
+2,need improvement,,2,need improvement,,2,need improvement,,2,need improvement
+3,acceptable,,3,acceptable,,3,acceptable,,3,manageable
+4,good,,4,good,,4,good,,4,Convinient
+5,excellent,,5,excellent,,5,excellent,,5,very convinient
+,,,,,,,,,,
+,Inflight wifi service,,,Inflight entertainment,,,Online support,,,Ease of Online booking
+0,extremely poor,,0,extremely poor,,0,extremely poor,,0,extremely poor
+1,poor,,1,poor,,1,poor,,1,poor
+2,need improvement,,2,need improvement,,2,need improvement,,2,need improvement
+3,acceptable,,3,acceptable,,3,acceptable,,3,acceptable
+4,good,,4,good,,4,good,,4,good
+5,excellent,,5,excellent,,5,excellent,,5,excellent
+,,,,,,,,,,
+,On-board service,,,Leg room service,,,Baggage handling,,,Checkin service
+0,extremely poor,,0,extremely poor,,0,extremely poor,,0,extremely poor
+1,poor,,1,poor,,1,poor,,1,poor
+2,need improvement,,2,need improvement,,2,need improvement,,2,need improvement
+3,acceptable,,3,acceptable,,3,acceptable,,3,acceptable
+4,good,,4,good,,4,good,,4,good
+5,excellent,,5,excellent,,5,excellent,,5,excellent
+,,,,,,,,,,
+,Cleanliness,,,Online boarding,,,,,,
+0,extremely poor,,0,extremely poor,,,,,,
+1,poor,,1,poor,,,,,,
+2,need improvement,,2,need improvement,,,,,,
+3,acceptable,,3,acceptable,,,,,,
+4,good,,4,good,,,,,,
+5,excellent,,5,excellent,,,,,,
