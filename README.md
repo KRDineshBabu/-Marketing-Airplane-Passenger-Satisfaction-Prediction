@@ -1,2 +1,11 @@
 # Marketing Airplane Passenger Satisfaction Prediction
 
+Executive Summary
+
+This report was commissioned to evaluate the important parameters or services which plays major role in customer satisfaction of “Falcon Airlines” passengers. The second objective of the project is to predict whether the customer is satisfied or not based on the given details.
+
+The dataset contains mixture of numeric and categorical variables. The dependent variable in the dataset is “satisfaction” and the variable are a binary variable. So, the binary variables are predicted based on classification model. The list of classification models is logistic regression, random forest, K-nearest neighbour, Naïve Bayes, Gradient Boosting used for predicting the customers satisfaction. The best 3 models for the list are used for ensemble model building. The best model is used for further analysis. 
+
+The research draws attention that more than 70% of the passengers are satisfied with the quality of the service for Inflight entertainment, Online support, Ease of online booking, onboard service, Leg room service, Baggage handling, Check-in service, Cleanliness and Online boarding. The inflight entertainment is highly influencing parameter among all the parameters in the dataset. Followed by Inflight entertainment, Seat comfort, ease of online booking, online support and leg room services are the top most influencing parameters towards the passenger’s satisfaction. 33% of female passengers are satisfied towards the “Falcon airlines” services whereas only 21% of the male passengers are satisfied with the airlines services. Nearly 50% of the passengers are not satisfied with the following paraments Gate location, food drink, Departure arrival time convenient and seat comfort.    
+
+The recommendation for the airlines is to further improve the highly influencing variables like inflight entertainment, seat comfort, ease of online booking to increase the passenger’s satisfaction which benefits the sales growth. Other than influencing variable, improve gate location, food drink, departure arrival time convenient to increase the passengers satisfaction towards the flight journey and these parameters may influence to increase the growth of the airlines.  
